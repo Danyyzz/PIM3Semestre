@@ -6,5 +6,11 @@ using System.Threading.Tasks;
 
 namespace PIM_Código
 {
-    
+    class Program
+    {
+        static void Main (string[] args)
+        {
+            
+        }
+    }
 }
